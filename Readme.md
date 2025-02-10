@@ -1,9 +1,3 @@
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=Vylllixis&color=blue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vylllixis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
-
 # Bienvenue sur mon GitHub 👋
 
 ## 🚀 À propos de moi
