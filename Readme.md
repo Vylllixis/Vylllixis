@@ -26,8 +26,11 @@ Je suis un passionné d'informatique et d'intelligence artificielle, actuellemen
 
 ## 📫 Me contacter
 
-- 📧 Email : :theo.moca@sfr.fr
+- 📧 Email : theo.moca@sfr.fr
 - 💼 LinkedIn : https://www.linkedin.com/in/th%C3%A9o-moitrier-cabodi-3277552b1/
+
+## plus d'information
+- 🌐 Portfolio : (https://vylllixis.github.io/my_portfolio/)
 
 Merci de visiter mon profil ! 😊
 
