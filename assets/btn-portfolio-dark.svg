@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="44" viewBox="0 0 162 44" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<style>
+@keyframes fade{from{opacity:0}}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}}
+@keyframes draw{from{stroke-dashoffset:1}}
+@keyframes pop{from{opacity:0;transform:scale(.3)}}
+@keyframes gx{from{transform:scaleX(0)}}
+@keyframes gy{from{transform:scaleY(0)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+@keyframes cyc{0%{opacity:0}2%{opacity:1}90%{opacity:1}94%,100%{opacity:0}}
+@keyframes sweep{0%,100%{transform:rotate(-50deg)}50%{transform:rotate(40deg)}}
+.f{animation:fade .9s ease-out both}
+.r{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+.d{stroke-dasharray:1;animation:draw 1.3s cubic-bezier(.65,0,.35,1) both}
+.p{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.2,.9,.3,1.3) both}
+.gx{transform-box:fill-box;transform-origin:0 50%;animation:gx 1.1s cubic-bezier(.2,.7,.2,1) both}
+.gy{transform-box:fill-box;transform-origin:50% 100%;animation:gy .9s cubic-bezier(.2,.7,.2,1) both}
+.bl{animation:blink 1.1s steps(1) infinite}
+.pu{animation:pulse 2.6s ease-in-out infinite}
+.cy{animation:cyc 18s linear infinite both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><path id="mono-md-49" d="M84 0V698H345Q445 698 498 642Q550 586 550 488Q550 390 498 334Q445 278 345 278H196V0ZM196 371H328Q432 371 432 467V510Q432 605 328 605H196Z"/><path id="mono-md-48" d="M300 -12Q234 -12 186 12Q137 37 106 83Q74 129 59 196Q44 263 44 349Q44 434 59 502Q74 569 106 615Q137 661 186 686Q234 710 300 710Q366 710 414 686Q463 661 494 615Q526 569 541 502Q556 434 556 349Q556 263 541 196Q526 129 494 83Q463 37 414 12Q366 -12 300 -12ZM300 81Q375 81 406 138Q437 194 437 291V408Q437 504 406 560Q375 617 300 617Q225 617 194 560Q163 504 163 408V290Q163 194 194 138Q225 81 300 81Z"/><path id="mono-md-51" d="M195 0H84V698H345Q445 698 498 642Q550 586 550 488Q550 408 511 356Q472 304 399 292L560 0H436L288 282H195ZM329 372Q433 372 433 467V510Q433 605 329 605H195V372Z"/><path id="mono-md-53" d="M356 604V0H244V604H25V698H575V604Z"/><path id="mono-md-39" d="M86 0V698H535V604H198V401H504V307H198V0Z"/><path id="mono-md-45" d="M108 0V698H220V94H538V0Z"/><path id="mono-md-42" d="M80 0V85H244V613H80V698H520V613H356V85H520V0Z"/></defs>
+<path d="M0.5 0.5H161.5V43.5H0.5Z" fill="#0d1117" stroke="#3d444d"/>
+<rect x="0" y="0" width="3" height="44" fill="#e3a33b"/>
+<g fill="#e6edf3" transform="translate(22 26.7) scale(0.01300 -0.01300)"><use href="#mono-md-49" x="0"/><use href="#mono-md-48" x="754"/><use href="#mono-md-51" x="1508"/><use href="#mono-md-53" x="2262"/><use href="#mono-md-39" x="3015"/><use href="#mono-md-48" x="3769"/><use href="#mono-md-45" x="4523"/><use href="#mono-md-42" x="5277"/><use href="#mono-md-48" x="6031"/></g>
+<path d="M124.2 27.0l10 -10M127.2 17.0h7v7" fill="none" stroke="#e3a33b" stroke-width="1.6"/>
+</svg>
